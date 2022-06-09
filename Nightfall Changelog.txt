@@ -1,2 +1,2 @@
 (2022-06-08) Nightfall Version 0.1a Released
-- First release of the Nightfall RLBX executor
+- First release of the Nightfall executor
