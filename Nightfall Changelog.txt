@@ -1,7 +1,7 @@
 (2022-06-25) Nightfall Version 0.2a Released
-- Updated UI
 - Added User Info into Settings
 - Added Settings
+- Updated UI
 
 (2022-06-08) Nightfall Version 0.1a Released
 - First release of the Nightfall executor
