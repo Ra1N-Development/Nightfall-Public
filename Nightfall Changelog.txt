@@ -1,3 +1,9 @@
+(2022-06-27) Nightfall Version 0.4a Released
+- Updated Bootstrapper
+- Changed Exploit API
+- Optimized Code
+- New Logo
+
 (2022-06-27) Nightfall Version 0.3a Released
 - Banned that nigga jake he can cope harder
 - Updated some stuff
