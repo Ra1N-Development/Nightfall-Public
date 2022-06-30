@@ -1,17 +1,17 @@
-(2022-06-27) Nightfall Version 0.4a Released
+(06/27/2022) Nightfall Version 0.4a Released
 - Updated Bootstrapper
 - Changed Exploit API
 - Optimized Code
 - New Logo
 
-(2022-06-27) Nightfall Version 0.3a Released
+(06/27/2022) Nightfall Version 0.3a Released
 - Banned that nigga jake he can cope harder
 - Updated some stuff
 
-(2022-06-25) Nightfall Version 0.2a Released
+(06/25/2022) Nightfall Version 0.2a Released
 - Added User Info into Settings
 - Added Settings
 - Updated UI
 
-(2022-06-08) Nightfall Version 0.1a Released
+(06/08/2022) Nightfall Version 0.1a Released
 - First release of the Nightfall executor
